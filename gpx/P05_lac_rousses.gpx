@@ -6,7 +6,7 @@
   <metadata>
     <name>Tour du Lac des Rousses</name>
     <desc>Tour complet du lac des Rousses, le plus grand lac naturel du Haut-Jura (95ha). Chemin plat, idéal famille et débutants. Vues sur les montagnes.</desc>
-    <time>2026-03-15T12:58:34Z</time>
+    <time>2026-03-15T13:07:27Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
@@ -14,187 +14,187 @@
     <name>Tour du Lac des Rousses</name>
     <desc>Tour complet du lac des Rousses, le plus grand lac naturel du Haut-Jura (95ha). Chemin plat, idéal famille et débutants. Vues sur les montagnes.</desc>
     <trkseg>
-      <trkpt lat="46.488438" lon="6.052000">
+      <trkpt lat="46.488391" lon="6.052000">
         <ele>900.0</ele>
       </trkpt>
-      <trkpt lat="46.488592" lon="6.053311">
+      <trkpt lat="46.488545" lon="6.053304">
         <ele>903.1</ele>
       </trkpt>
-      <trkpt lat="46.488380" lon="6.054587">
+      <trkpt lat="46.488333" lon="6.054572">
         <ele>906.4</ele>
       </trkpt>
-      <trkpt lat="46.487983" lon="6.055767">
+      <trkpt lat="46.487939" lon="6.055746">
         <ele>909.8</ele>
       </trkpt>
-      <trkpt lat="46.487597" lon="6.056912">
+      <trkpt lat="46.487555" lon="6.056885">
         <ele>913.2</ele>
       </trkpt>
-      <trkpt lat="46.487312" lon="6.058131">
+      <trkpt lat="46.487272" lon="6.058097">
         <ele>916.5</ele>
       </trkpt>
-      <trkpt lat="46.487066" lon="6.059456">
+      <trkpt lat="46.487027" lon="6.059414">
         <ele>919.6</ele>
       </trkpt>
-      <trkpt lat="46.486700" lon="6.060760">
+      <trkpt lat="46.486663" lon="6.060712">
         <ele>922.5</ele>
       </trkpt>
-      <trkpt lat="46.486071" lon="6.061791">
+      <trkpt lat="46.486037" lon="6.061737">
         <ele>925.1</ele>
       </trkpt>
-      <trkpt lat="46.485155" lon="6.062303">
+      <trkpt lat="46.485126" lon="6.062246">
         <ele>927.4</ele>
       </trkpt>
-      <trkpt lat="46.484063" lon="6.062219">
+      <trkpt lat="46.484040" lon="6.062162">
         <ele>929.4</ele>
       </trkpt>
-      <trkpt lat="46.482978" lon="6.061712">
+      <trkpt lat="46.482961" lon="6.061658">
         <ele>931.3</ele>
       </trkpt>
-      <trkpt lat="46.482045" lon="6.061141">
+      <trkpt lat="46.482034" lon="6.061090">
         <ele>933.3</ele>
       </trkpt>
-      <trkpt lat="46.481298" lon="6.060868">
+      <trkpt lat="46.481291" lon="6.060819">
         <ele>935.4</ele>
       </trkpt>
-      <trkpt lat="46.480656" lon="6.061070">
+      <trkpt lat="46.480653" lon="6.061020">
         <ele>937.8</ele>
       </trkpt>
-      <trkpt lat="46.480000" lon="6.061644">
+      <trkpt lat="46.480000" lon="6.061591">
         <ele>940.7</ele>
       </trkpt>
-      <trkpt lat="46.479256" lon="6.062278">
+      <trkpt lat="46.479260" lon="6.062221">
         <ele>944.1</ele>
       </trkpt>
-      <trkpt lat="46.478443" lon="6.062634">
+      <trkpt lat="46.478452" lon="6.062575">
         <ele>948.1</ele>
       </trkpt>
-      <trkpt lat="46.477642" lon="6.062538">
+      <trkpt lat="46.477655" lon="6.062479">
         <ele>952.5</ele>
       </trkpt>
-      <trkpt lat="46.476917" lon="6.062057">
+      <trkpt lat="46.476934" lon="6.062001">
         <ele>957.3</ele>
       </trkpt>
-      <trkpt lat="46.476250" lon="6.061433">
+      <trkpt lat="46.476271" lon="6.061381">
         <ele>962.2</ele>
       </trkpt>
-      <trkpt lat="46.475544" lon="6.060906">
+      <trkpt lat="46.475569" lon="6.060857">
         <ele>967.1</ele>
       </trkpt>
-      <trkpt lat="46.474693" lon="6.060559">
+      <trkpt lat="46.474723" lon="6.060511">
         <ele>971.7</ele>
       </trkpt>
-      <trkpt lat="46.473678" lon="6.060266">
+      <trkpt lat="46.473713" lon="6.060220">
         <ele>975.8</ele>
       </trkpt>
-      <trkpt lat="46.472621" lon="6.059785">
+      <trkpt lat="46.472662" lon="6.059742">
         <ele>979.1</ele>
       </trkpt>
-      <trkpt lat="46.471750" lon="6.058917">
+      <trkpt lat="46.471796" lon="6.058879">
         <ele>981.7</ele>
       </trkpt>
-      <trkpt lat="46.471286" lon="6.057634">
+      <trkpt lat="46.471334" lon="6.057603">
         <ele>983.4</ele>
       </trkpt>
-      <trkpt lat="46.471318" lon="6.056097">
+      <trkpt lat="46.471366" lon="6.056074">
         <ele>984.3</ele>
       </trkpt>
-      <trkpt lat="46.471748" lon="6.054547">
+      <trkpt lat="46.471794" lon="6.054533">
         <ele>984.8</ele>
       </trkpt>
-      <trkpt lat="46.472332" lon="6.053170">
+      <trkpt lat="46.472374" lon="6.053164">
         <ele>984.9</ele>
       </trkpt>
-      <trkpt lat="46.472812" lon="6.052000">
+      <trkpt lat="46.472852" lon="6.052000">
         <ele>985.1</ele>
       </trkpt>
-      <trkpt lat="46.473052" lon="6.050939">
+      <trkpt lat="46.473090" lon="6.050945">
         <ele>980.1</ele>
       </trkpt>
-      <trkpt lat="46.473095" lon="6.049869">
+      <trkpt lat="46.473134" lon="6.049881">
         <ele>976.1</ele>
       </trkpt>
-      <trkpt lat="46.473122" lon="6.048754">
+      <trkpt lat="46.473160" lon="6.048772">
         <ele>972.9</ele>
       </trkpt>
-      <trkpt lat="46.473322" lon="6.047682">
+      <trkpt lat="46.473359" lon="6.047706">
         <ele>970.6</ele>
       </trkpt>
-      <trkpt lat="46.473780" lon="6.046785">
+      <trkpt lat="46.473814" lon="6.046814">
         <ele>969.1</ele>
       </trkpt>
-      <trkpt lat="46.474425" lon="6.046117">
+      <trkpt lat="46.474456" lon="6.046150">
         <ele>968.1</ele>
       </trkpt>
-      <trkpt lat="46.475087" lon="6.045576">
+      <trkpt lat="46.475115" lon="6.045612">
         <ele>967.4</ele>
       </trkpt>
-      <trkpt lat="46.475615" lon="6.044928">
+      <trkpt lat="46.475639" lon="6.044967">
         <ele>966.7</ele>
       </trkpt>
-      <trkpt lat="46.475970" lon="6.043945">
+      <trkpt lat="46.475992" lon="6.043989">
         <ele>965.6</ele>
       </trkpt>
-      <trkpt lat="46.476250" lon="6.042567">
+      <trkpt lat="46.476271" lon="6.042619">
         <ele>964.2</ele>
       </trkpt>
-      <trkpt lat="46.476622" lon="6.040982">
+      <trkpt lat="46.476641" lon="6.041043">
         <ele>962.1</ele>
       </trkpt>
-      <trkpt lat="46.477217" lon="6.039559">
+      <trkpt lat="46.477232" lon="6.039628">
         <ele>959.3</ele>
       </trkpt>
-      <trkpt lat="46.478049" lon="6.038672">
+      <trkpt lat="46.478060" lon="6.038746">
         <ele>956.0</ele>
       </trkpt>
-      <trkpt lat="46.479023" lon="6.038502">
+      <trkpt lat="46.479029" lon="6.038577">
         <ele>952.1</ele>
       </trkpt>
-      <trkpt lat="46.480000" lon="6.038952">
+      <trkpt lat="46.480000" lon="6.039024">
         <ele>947.9</ele>
       </trkpt>
-      <trkpt lat="46.480889" lon="6.039710">
+      <trkpt lat="46.480885" lon="6.039779">
         <ele>943.5</ele>
       </trkpt>
-      <trkpt lat="46.481692" lon="6.040438">
+      <trkpt lat="46.481683" lon="6.040502">
         <ele>939.2</ele>
       </trkpt>
-      <trkpt lat="46.482471" lon="6.040956">
+      <trkpt lat="46.482457" lon="6.041017">
         <ele>935.0</ele>
       </trkpt>
-      <trkpt lat="46.483272" lon="6.041327">
+      <trkpt lat="46.483254" lon="6.041386">
         <ele>931.1</ele>
       </trkpt>
-      <trkpt lat="46.484063" lon="6.041781">
+      <trkpt lat="46.484040" lon="6.041838">
         <ele>927.5</ele>
       </trkpt>
-      <trkpt lat="46.484729" lon="6.042548">
+      <trkpt lat="46.484703" lon="6.042600">
         <ele>924.4</ele>
       </trkpt>
-      <trkpt lat="46.485149" lon="6.043695">
+      <trkpt lat="46.485120" lon="6.043741">
         <ele>921.6</ele>
       </trkpt>
-      <trkpt lat="46.485291" lon="6.045082">
+      <trkpt lat="46.485261" lon="6.045121">
         <ele>919.1</ele>
       </trkpt>
-      <trkpt lat="46.485263" lon="6.046447">
+      <trkpt lat="46.485234" lon="6.046478">
         <ele>916.6</ele>
       </trkpt>
-      <trkpt lat="46.485283" lon="6.047571">
+      <trkpt lat="46.485253" lon="6.047596">
         <ele>914.3</ele>
       </trkpt>
-      <trkpt lat="46.485561" lon="6.048405">
+      <trkpt lat="46.485530" lon="6.048425">
         <ele>911.8</ele>
       </trkpt>
-      <trkpt lat="46.486180" lon="6.049084">
+      <trkpt lat="46.486145" lon="6.049100">
         <ele>909.1</ele>
       </trkpt>
-      <trkpt lat="46.487032" lon="6.049829">
+      <trkpt lat="46.486993" lon="6.049841">
         <ele>906.3</ele>
       </trkpt>
-      <trkpt lat="46.487872" lon="6.050798">
+      <trkpt lat="46.487828" lon="6.050805">
         <ele>903.2</ele>
       </trkpt>
-      <trkpt lat="46.488438" lon="6.052000">
+      <trkpt lat="46.488391" lon="6.052000">
         <ele>900.0</ele>
       </trkpt>
     </trkseg>
