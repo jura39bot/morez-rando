@@ -1,0 +1,31 @@
+name: Generate & Deploy
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Generate GPX & Page
+        run: |
+          python3 generate_gpx.py
+          python3 generate_page.py
+      - name: Commit GPX if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add gpx/ index.html
+          git diff --staged --quiet || git commit -m "auto: regénération GPX et page"
+          git push
