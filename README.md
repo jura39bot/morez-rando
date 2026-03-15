@@ -1,8 +1,8 @@
 # 🗺️ Randonnées autour de Morez – Haut-Jura
 
-> **119 itinéraires balisés** dans un rayon de 30 km autour de Morez (39400, Jura)  
+> **144 itinéraires** dans un rayon de 30 km autour de Morez (39400, Jura)  
 > Classés par activité : à pied · VTT · ski de fond · raquettes  
-> Fichiers GPX inclus pour chaque parcours
+> **144 fichiers GPX** inclus pour chaque parcours
 
 🌐 **Site web** : https://jura39bot.github.io/morez-rando/  
 📦 **Repo** : https://github.com/jura39bot/morez-rando
@@ -11,13 +11,13 @@
 
 ## 📊 Résumé
 
-| Activité | Itinéraires | Facile | Modéré | Difficile |
-|---|---|---|---|---|
-| 🥾 À pied | **45** | 7 | 24 | 14 |
-| 🚵 VTT | **40** | 0 | 19 | 21 |
-| ⛷️ Ski de fond | **14** | 2 | 8 | 4 |
-| 🎿 Raquettes | **20** | 3 | 8 | 9 |
-| **Total** | **119** | | | |
+| Activité | Itinéraires | Facile | Modéré | Difficile | Très difficile |
+|---|---|---|---|---|---|
+| 🥾 À pied | **45** | 9 | 22 | 14 | — |
+| 🚵 VTT | **65** | 4 | 28 | 30 | 3 |
+| ⛷️ Ski de fond | **14** | 2 | 9 | 3 | — |
+| 🎿 Raquettes | **20** | 3 | 8 | 9 | — |
+| **Total** | **144** | | | | |
 
 ---
 
@@ -73,7 +73,9 @@
 
 ---
 
-## 🚵 VTT (40 itinéraires)
+## 🚵 VTT (65 itinéraires)
+
+### V01–V40 – Secteur Morez / Rousses / Jura
 
 | ID | Nom | Départ | Dist. | D+ | Durée | Diff. |
 |----|-----|--------|-------|----|-------|-------|
@@ -90,7 +92,7 @@
 | V11 | Barrage de Vouglans – Belvédère | Pont-de-Poitte | 46.8 km | 850 m | 4h06 | **Difficile** |
 | V12 | Crêtes Trois Commères – Trou Bleu | Morbier | 21.0 km | 490 m | 1h54 | Modéré |
 | V13 | Vue Lac de Vouglans – Orgelet | Orgelet | 36.4 km | 720 m | 3h06 | **Difficile** |
-| V14 | Col Faucille – Descente et Boucle Mijoux 🔥 | Col Faucille | 35.0 km | 950 m | 3h48 | **Difficile** |
+| V14 | Col Faucille – Descente Mijoux 🔥 | Col Faucille | 35.0 km | 950 m | 3h48 | **Difficile** |
 | V15 | Septmoncel – Grand Crêt d'Eau 🔥 | Septmoncel | 32.5 km | 1050 m | 4h12 | **Difficile** |
 | V16 | Saint-Claude – Gorges de la Bienne | Saint-Claude | 28.8 km | 680 m | 2h48 | Modéré |
 | V17 | Lélex – Monts Jura Enduro 🔥 | Lélex | 42.0 km | 1200 m | 4h30 | **Difficile** |
@@ -118,6 +120,38 @@
 | V39 | Gex – Tour du Pays de Gex 🔥 | Gex | 48.0 km | 1050 m | 4h48 | **Difficile** |
 | V40 | Morez – Méga Boucle Haut-Jura 🔥 | Morez | 55.0 km | 1350 m | 6h00 | **Difficile** |
 
+### V41–V65 – Parcours officiels FFC Champagnole-Nozeroy-Jura ⭐
+
+> Données réelles issues du [Site VTT-FFC n°43](https://sitesvtt.ffc.fr/sites/jura-monts-rivieres-champagnole-nozeroy-foncine-6/) — 28 parcours, 562 km balisés
+
+| ID | Nom | Départ | Dist. | D+ | Durée | Diff. |
+|----|-----|--------|-------|----|-------|-------|
+| V41 | Champ la Gaille | Cerniebaud | 8.3 km | 135 m | 0h48 | Facile |
+| V42 | Chaux-Neuve / Les Sauges | Foncine-le-Haut | 21.6 km | 559 m | 2h24 | **Difficile** |
+| V43 | Black Combe | Mignovillard | 24.6 km | 580 m | 2h36 | **Difficile** |
+| V44 | Entre Lemme et Saine | Chaux-des-Crotenay | 26.2 km | 654 m | 2h48 | **Difficile** |
+| V45 | Fontaine du Meix | Cerniebaud | 13.4 km | 247 m | 1h18 | Modéré |
+| V46 | Fontaine Noire | Les Nans | 22.5 km | 543 m | 2h24 | Modéré |
+| V47 | La Bique du Mont-Noir 💀 | Foncine-le-Haut | 43.0 km | 894 m | 4h24 | **Très difficile** |
+| V48 | La Bourre | Mignovillard | 16.8 km | 347 m | 1h42 | Modéré |
+| V49 | La Roche des Nans | Les Nans | 28.9 km | 832 m | 3h18 | **Difficile** |
+| V50 | Via Chalain – 61R | Champagnole | 46.0 km | 641 m | 5h00 | **Difficile** |
+| V51 | La Voie du Tram | Foncine-le-Haut | 8.3 km | 183 m | 0h54 | Modéré |
+| V52 | Le doux Jura 💀 | Cerniebaud | 47.0 km | 1105 m | 5h00 | **Très difficile** |
+| V53 | L'Encensoir / Paradis – 5R | Foncine-le-Haut | 22.1 km | 559 m | 3h00 | **Difficile** |
+| V54 | Le Sapoitier | Champagnole | 8.2 km | 171 m | 0h48 | Modéré |
+| V55 | Les Chalesmes / Les Planches 💀 | Foncine-le-Haut | 34.0 km | 774 m | 3h36 | **Très difficile** |
+| V56 | Les Pertes de l'Ain – 62B | Champagnole | 18.8 km | 352 m | 1h54 | Modéré |
+| V57 | Tartre | Foncine-le-Haut | 6.3 km | 127 m | 0h36 | Facile |
+| V58 | Tour du Val de Saine | Foncine-le-Haut | 25.1 km | 575 m | 2h36 | **Difficile** |
+| V59 | La Vallée de Mièges – 28R | Cerniebaud | 43.0 km | 850 m | 5h00 | Modéré |
+| V60 | Mi-Bois | Mignovillard | 8.2 km | 99 m | 0h48 | Facile |
+| V61 | Piste de loisirs | Foncine-le-Haut | 1.7 km | 27 m | 0h12 | Facile |
+| V62 | Sur le Doye | Foncine-le-Haut | 5.2 km | 102 m | 0h30 | Modéré |
+| V63 | Sur les Gîtes / Chapelle-des-Bois | Foncine-le-Haut | 17.4 km | 300 m | 1h42 | Modéré |
+| V64 | Tour des 5 lacs | Le Frasnois | 23.2 km | 420 m | 2h18 | **Difficile** |
+| V65 | Tour du lac Chalain | Marigny | 18.9 km | 307 m | 1h48 | **Difficile** |
+
 ---
 
 ## ⛷️ Ski de fond (14 itinéraires)
@@ -132,11 +166,11 @@
 | SF06 | Boucle Prémanon – Lamoura Skating | Prémanon | 20 km | 230 m | 2h18 | Modéré |
 | SF07 | GTJ Mouthe → Les Rousses 🔥 | Mouthe | 55 km | 620 m | 7h00 | **Difficile** |
 | SF08 | Métabief – Espace Nordique Pontarlier | Métabief | 22 km | 280 m | 2h48 | Modéré |
-| SF09 | Chaux-Neuve – Domaine Nordique des Bois | Chaux-Neuve | 18 km | 220 m | 2h30 | Modéré |
+| SF09 | Chaux-Neuve – Domaine Nordique | Chaux-Neuve | 18 km | 220 m | 2h30 | Modéré |
 | SF10 | Boucle Familiale Prémanon – Forêt | Prémanon | 8 km | 100 m | 1h12 | Facile |
 | SF11 | Chapelle-des-Bois – Bois d'Amont | Chapelle-des-Bois | 30 km | 350 m | 3h48 | Modéré |
 | SF12 | Lamoura – Crêts Nordiques | Lamoura | 16.5 km | 210 m | 2h12 | Modéré |
-| SF13 | GTJ Mouthe – Chaux-Neuve (Étape courte) | Mouthe | 18 km | 200 m | 2h18 | Modéré |
+| SF13 | GTJ Mouthe – Chaux-Neuve (courte) | Mouthe | 18 km | 200 m | 2h18 | Modéré |
 | SF14 | Septmoncel – Boucle Nordique du Haut | Septmoncel | 14 km | 250 m | 2h00 | Modéré |
 
 ---
@@ -170,29 +204,28 @@
 
 ## 📥 Fichiers GPX
 
-Tous les 119 GPX sont dans le dossier [`/gpx`](./gpx/).  
-Les tracés sont générés algorithmiquement depuis les coordonnées réelles de départ.  
-Pour des tracés précis, utiliser les **liens Komoot** disponibles dans le site web.
+**144 fichiers GPX** dans le dossier [`/gpx`](./gpx/).  
+Les tracés sont générés algorithmiquement depuis les coordonnées réelles.  
+Pour les tracés précis, utiliser les liens Komoot/FFC disponibles dans le site web.
 
 ---
 
 ## 🛠️ Génération locale
 
 ```bash
-# Générer les GPX
-python3 generate_gpx.py
+# Générer les GPX + page web
+python3 generate_gpx.py 2>/dev/null && python3 generate_page.py
 
-# Générer la page web
-python3 generate_page.py
-
-# Les deux + push
-python3 generate_gpx.py 2>/dev/null && python3 generate_page.py && git add -A && git commit -m "update" && git push
+# Commit et push
+git add -A && git commit -m "update" && git push --force
 ```
 
 ---
 
 ## 📚 Sources
 
+- [Site VTT-FFC n°43 – Champagnole Nozeroy Jura](https://sitesvtt.ffc.fr/sites/jura-monts-rivieres-champagnole-nozeroy-foncine-6/) ⭐ données réelles V41–V65
+- [CNJ Tourisme – VTT](https://www.cnjtourisme.fr/en/bouger/randonnees/vtt/)
 - [Komoot – Randonnées Les Rousses](https://www.komoot.com/fr-fr/guide/1462683/randonnees-autour-de-les-rousses)
 - [Komoot – VTT Les Rousses](https://www.komoot.com/fr-fr/guide/1462684/rando-vtt-et-circuits-autour-de-les-rousses)
 - [Komoot – Randonnées Morbier](https://www.komoot.com/fr-fr/guide/1362264/randonnees-autour-de-morbier)
