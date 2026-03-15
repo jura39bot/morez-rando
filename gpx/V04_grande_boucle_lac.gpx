@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Grande Boucle Lac des Rousses</name>
-    <desc>Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles. Tour complet du secteur nordique.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Grande Boucle Lac des Rousses</name>
-    <desc>Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles. Tour complet du secteur nordique.</desc>
+    <desc>Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles.</desc>
     <trkseg>
       <trkpt lat="46.535974" lon="6.089200">
         <ele>1000.0</ele>

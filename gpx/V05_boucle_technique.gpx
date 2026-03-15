@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Boucle Technique Vue Rousses</name>
-    <desc>Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis. Vues magnifiques sur Les Rousses.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Boucle Technique Vue Rousses</name>
-    <desc>Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis. Vues magnifiques sur Les Rousses.</desc>
+    <desc>Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis.</desc>
     <trkseg>
       <trkpt lat="46.529411" lon="6.089200">
         <ele>1000.0</ele>

@@ -1,10 +1,7 @@
 {
   "meta": {
     "centre": "Morez (39400)",
-    "coordonnees": [
-      46.5228,
-      6.0247
-    ],
+    "coordonnees": [46.5228, 6.0247],
     "rayon_km": 30,
     "source": "Komoot, Visorando, Jura Tourisme, Espace Nordique Jurassien",
     "derniere_maj": "2026-03-15"
@@ -15,10 +12,7 @@
         "id": "P01",
         "nom": "La Dôle – Boucle Haut-Jura",
         "depart": "Les Rousses (La Cure)",
-        "coordonnees_depart": [
-          46.4755,
-          6.072
-        ],
+        "coordonnees_depart": [46.4755, 6.0720],
         "distance_km": 8.86,
         "denivele_pos_m": 520,
         "denivele_neg_m": 520,
@@ -27,29 +21,17 @@
         "type": "Boucle",
         "altitude_max_m": 1677,
         "description": "Montée au sommet de La Dôle (1677m), second plus haut sommet du Jura vaudois. Vue panoramique sur le lac Léman et les Alpes. Forêts et alpages.",
-        "points_interet": [
-          "Sommet La Dôle 1677m",
-          "Vue Lac Léman",
-          "Vue Alpes"
-        ],
-        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063870244/la-dole-boucle-dans-le-parc-naturel-regional-du-haut-jura",
+        "points_interet": ["Sommet La Dôle 1677m", "Vue Lac Léman", "Vue Alpes"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063870244",
         "gpx_file": "P01_dole_boucle.gpx",
         "note": 4.8,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P02",
         "nom": "Roche Blanche – Boucle Rousses",
         "depart": "Les Rousses",
-        "coordonnees_depart": [
-          46.474,
-          6.062
-        ],
+        "coordonnees_depart": [46.4740, 6.0620],
         "distance_km": 11.2,
         "denivele_pos_m": 300,
         "denivele_neg_m": 300,
@@ -58,29 +40,17 @@
         "type": "Boucle",
         "altitude_max_m": 1400,
         "description": "Boucle sur les hauteurs des Rousses avec vue sur la Roche Blanche. Sentiers forestiers et pâturages. Idéal pour tous niveaux.",
-        "points_interet": [
-          "Roche Blanche",
-          "Vues panoramiques",
-          "Fort des Rousses"
-        ],
-        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068623694/roche-blanche-boucle-dans-le-parc-naturel-regional-du-haut-jura",
+        "points_interet": ["Roche Blanche", "Vues panoramiques", "Fort des Rousses"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068623694",
         "gpx_file": "P02_roche_blanche.gpx",
         "note": 4.3,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P03",
         "nom": "Sentier du Noirmont",
         "depart": "Les Rousses",
-        "coordonnees_depart": [
-          46.474,
-          6.062
-        ],
+        "coordonnees_depart": [46.4740, 6.0620],
         "distance_km": 13.9,
         "denivele_pos_m": 510,
         "denivele_neg_m": 510,
@@ -88,31 +58,18 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1552,
-        "description": "Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé. Géologie jurassienne remarquable.",
-        "points_interet": [
-          "Noirmont",
-          "Mont Sâla",
-          "Creux du Croue",
-          "Vue Léman"
-        ],
-        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1737816282/sentier-du-noirmont",
+        "description": "Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé.",
+        "points_interet": ["Noirmont 1552m", "Mont Sâla", "Creux du Croue", "Vue Léman"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1737816282",
         "gpx_file": "P03_noirmont.gpx",
         "note": 4.8,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P04",
         "nom": "Cascade du Bief de la Chaille",
         "depart": "Prémanon",
-        "coordonnees_depart": [
-          46.4585,
-          6.0388
-        ],
+        "coordonnees_depart": [46.4585, 6.0388],
         "distance_km": 8.76,
         "denivele_pos_m": 160,
         "denivele_neg_m": 160,
@@ -120,31 +77,18 @@
         "difficulte": "Facile",
         "type": "Boucle",
         "altitude_max_m": 1220,
-        "description": "Balade familiale autour des cascades du Bief de la Chaille. Forêt d'épicéas, ruisseaux et belles cascades. Accessible toute l'année.",
-        "points_interet": [
-          "Cascades Bief de la Chaille",
-          "Forêt Haut-Jura",
-          "Bief de la Chaille"
-        ],
-        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068498737/cascade-du-bief-de-la-chaille-boucle-dans-le-parc-naturel-regional-du-haut-jura",
+        "description": "Balade familiale autour des cascades du Bief de la Chaille. Forêt d'épicéas, ruisseaux et belles cascades.",
+        "points_interet": ["Cascades Bief de la Chaille", "Forêt Haut-Jura"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068498737",
         "gpx_file": "P04_bief_chaille.gpx",
         "note": 4.2,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne",
-          "hiver"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne", "hiver"]
       },
       {
         "id": "P05",
         "nom": "Tour du Lac des Rousses",
         "depart": "Les Rousses (lac)",
-        "coordonnees_depart": [
-          46.48,
-          6.052
-        ],
+        "coordonnees_depart": [46.4800, 6.0520],
         "distance_km": 5.37,
         "denivele_pos_m": 90,
         "denivele_neg_m": 90,
@@ -152,30 +96,18 @@
         "difficulte": "Facile",
         "type": "Boucle",
         "altitude_max_m": 1110,
-        "description": "Tour complet du lac des Rousses, le plus grand lac naturel du Haut-Jura (95ha). Chemin plat, idéal famille et débutants. Vues sur les montagnes.",
-        "points_interet": [
-          "Lac des Rousses 95ha",
-          "Faune lacustre",
-          "Les Rousses village"
-        ],
-        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068470837/tour-de-la-haute-bienne",
+        "description": "Tour complet du lac des Rousses (95ha), le plus grand lac naturel du Haut-Jura. Chemin plat, idéal famille et débutants.",
+        "points_interet": ["Lac des Rousses 95ha", "Faune lacustre"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1068470837",
         "gpx_file": "P05_lac_rousses.gpx",
         "note": 4.2,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P06",
         "nom": "Cluses et Viaducs de Morez à Morbier",
         "depart": "Morez (gare)",
-        "coordonnees_depart": [
-          46.5228,
-          6.0247
-        ],
+        "coordonnees_depart": [46.5228, 6.0247],
         "distance_km": 12.0,
         "denivele_pos_m": 673,
         "denivele_neg_m": 669,
@@ -183,30 +115,17 @@
         "difficulte": "Difficile",
         "type": "Boucle",
         "altitude_max_m": 950,
-        "description": "Parcours emblématique depuis Morez. Découverte des cluses spectaculaires, viaducs ferroviaires historiques et Morbier, village du fromage. Géologie, histoire et patrimoine.",
-        "points_interet": [
-          "Viaducs ferroviaires",
-          "Cluses de Morez",
-          "Village Morbier",
-          "Fromagerie Morbier"
-        ],
-        "jura_url": "https://www.jura-tourism.com/vivre-le-jura/pratiquer/balades-randonnees-pedestres/",
+        "description": "Parcours emblématique depuis Morez. Découverte des cluses spectaculaires, viaducs ferroviaires historiques et village de Morbier.",
+        "points_interet": ["Viaducs ferroviaires", "Cluses de Morez", "Village Morbier"],
         "gpx_file": "P06_viaducs_morez_morbier.gpx",
         "note": 4.5,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ]
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P07",
         "nom": "Crêt de la Vigoureuse – Lajoux",
         "depart": "Lajoux",
-        "coordonnees_depart": [
-          46.3962,
-          5.9847
-        ],
+        "coordonnees_depart": [46.3962, 5.9847],
         "distance_km": 10.0,
         "denivele_pos_m": 320,
         "denivele_neg_m": 320,
@@ -214,28 +133,17 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1250,
-        "description": "Boucle dans la commune de Lajoux (Ain) au cœur du Parc Haut-Jura. Crêts panoramiques, combes et forêts. Point de vue sur le massif.",
-        "points_interet": [
-          "Crêt de la Vigoureuse",
-          "Pâturages",
-          "Vue massif Jura"
-        ],
+        "description": "Boucle dans la commune de Lajoux au cœur du Parc Haut-Jura. Crêts panoramiques, combes et forêts.",
+        "points_interet": ["Crêt de la Vigoureuse", "Vue massif Jura"],
         "gpx_file": "P07_cret_vigoureuse.gpx",
         "note": 4.1,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ]
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "P08",
-        "nom": "Dent de Vaulion depuis Le Pont (Suisse)",
+        "nom": "Dent de Vaulion depuis Le Pont",
         "depart": "Le Pont (Jura vaudois, Suisse)",
-        "coordonnees_depart": [
-          46.6722,
-          6.3328
-        ],
+        "coordonnees_depart": [46.6722, 6.3328],
         "distance_km": 10.0,
         "denivele_pos_m": 440,
         "denivele_neg_m": 440,
@@ -243,19 +151,234 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1483,
-        "description": "Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes et le Jura. ~25min de Morez.",
-        "points_interet": [
-          "Dent de Vaulion 1483m",
-          "Lac de Joux",
-          "Vue 360° Alpes"
-        ],
+        "description": "Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes.",
+        "points_interet": ["Dent de Vaulion 1483m", "Lac de Joux", "Vue 360° Alpes"],
         "gpx_file": "P08_dent_vaulion.gpx",
         "note": 4.6,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ]
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P09",
+        "nom": "Roche Devant et 3 Commères",
+        "depart": "Les Marais (Morbier)",
+        "coordonnees_depart": [46.5300, 6.0100],
+        "distance_km": 8.26,
+        "denivele_pos_m": 310,
+        "denivele_neg_m": 310,
+        "duree_h": 2.58,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1000,
+        "description": "Boucle locale depuis Morbier. Roche Devant et les Trois Commères, crêtes boisées typiques du Haut-Jura. Vue sur la combe de Morbier.",
+        "points_interet": ["Roche Devant", "Les 3 Commères", "Vue Morbier"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1069570200",
+        "gpx_file": "P09_roche_devant_3commeres.gpx",
+        "note": 4.1,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P10",
+        "nom": "Boucle des Cascades du Hérisson",
+        "depart": "Doucier",
+        "coordonnees_depart": [46.6426, 5.7879],
+        "distance_km": 12.5,
+        "denivele_pos_m": 395,
+        "denivele_neg_m": 395,
+        "duree_h": 3.82,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 810,
+        "description": "Incontournable du Jura. 7 cascades dont l'Éventail (65m) et le Grand Saut (60m). Sentier aménagé mais engagement physique.",
+        "points_interet": ["Cascade l'Éventail 65m", "Grand Saut 60m", "Saut Girard", "Lac Chalain"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063842380",
+        "gpx_file": "P10_cascades_herisson.gpx",
+        "note": 4.7,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P11",
+        "nom": "Cascade du Flumen depuis l'Essard",
+        "depart": "L'Essard (Saint-Claude)",
+        "coordonnees_depart": [46.3700, 5.8850],
+        "distance_km": 11.6,
+        "denivele_pos_m": 530,
+        "denivele_neg_m": 530,
+        "duree_h": 4.15,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 920,
+        "description": "Boucle depuis l'Essard jusqu'à la cascade du Flumen. Gorges sauvages et forêts de la banlieue de Saint-Claude.",
+        "points_interet": ["Cascade du Flumen", "Gorges du Flumen", "Forêt Saint-Claude"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063926440",
+        "gpx_file": "P11_cascade_flumen.gpx",
+        "note": 4.4,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P12",
+        "nom": "Crêt de Chalam",
+        "depart": "Les Molunes",
+        "coordonnees_depart": [46.3540, 5.9020],
+        "distance_km": 4.78,
+        "denivele_pos_m": 220,
+        "denivele_neg_m": 220,
+        "duree_h": 1.55,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1545,
+        "description": "Court mais intense. Le Crêt de Chalam (1545m) offre une des plus belles vues du Jura sur les Alpes et le lac Léman.",
+        "points_interet": ["Crêt de Chalam 1545m", "Vue Alpes", "Vue Lac Léman"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063943076",
+        "gpx_file": "P12_cret_chalam.gpx",
+        "note": 4.6,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P13",
+        "nom": "Gorges de l'Abîme, Cascade des Combes et Crêt Pourri",
+        "depart": "Mijoux",
+        "coordonnees_depart": [46.3920, 6.0010],
+        "distance_km": 8.75,
+        "denivele_pos_m": 480,
+        "denivele_neg_m": 480,
+        "duree_h": 3.1,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1370,
+        "description": "Boucle engagée avec gorges, cascades et crêtes. Terrain varié et passages techniques. Le Crêt Pourri offre une vue imprenable sur le massif.",
+        "points_interet": ["Gorges de l'Abîme", "Cascade des Combes", "Crêt Pourri 1370m"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1067477008",
+        "gpx_file": "P13_gorges_abime_cret_pourri.gpx",
+        "note": 4.5,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P14",
+        "nom": "Château de Maisod et Lac de Vouglans",
+        "depart": "Maisod",
+        "coordonnees_depart": [46.4530, 5.7790],
+        "distance_km": 7.27,
+        "denivele_pos_m": 260,
+        "denivele_neg_m": 260,
+        "duree_h": 2.03,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 620,
+        "description": "Boucle autour des ruines du château de Maisod surplombant le lac de Vouglans. Vue sur la retenue d'eau (1600ha) et falaises calcaires.",
+        "points_interet": ["Château de Maisod (ruines)", "Lac de Vouglans", "Belvédère"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1063977314",
+        "gpx_file": "P14_chateau_maisod_vouglans.gpx",
+        "note": 4.2,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P15",
+        "nom": "Boucle Trou Bleu – Viaduc de Morez",
+        "depart": "Morez",
+        "coordonnees_depart": [46.5228, 6.0247],
+        "distance_km": 11.8,
+        "denivele_pos_m": 580,
+        "denivele_neg_m": 580,
+        "duree_h": 3.75,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 950,
+        "description": "Boucle depuis Morez jusqu'au Trou Bleu, résurgence spectaculaire, en passant par les viaducs ferroviaires. Belle combinaison géologie/patrimoine.",
+        "points_interet": ["Trou Bleu (résurgence)", "Viaducs ferroviaires Morez", "Cluses"],
+        "gpx_file": "P15_trou_bleu_viaduc.gpx",
+        "note": 4.4,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P16",
+        "nom": "Les Trois Commères – Vue sur Morbier",
+        "depart": "Morbier",
+        "coordonnees_depart": [46.5468, 6.0188],
+        "distance_km": 6.66,
+        "denivele_pos_m": 280,
+        "denivele_neg_m": 280,
+        "duree_h": 2.08,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 980,
+        "description": "Boucle locale depuis Morbier jusqu'aux Trois Commères. Belvédère sur Morbier et la vallée. Idéal pour une sortie rapide depuis Morez.",
+        "points_interet": ["Les Trois Commères", "Vue Morbier", "Crêtes boisées"],
+        "gpx_file": "P16_trois_commeres_morbier.gpx",
+        "note": 4.0,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P17",
+        "nom": "Grand Crêt d'Eau – Boucle Septmoncel",
+        "depart": "Septmoncel",
+        "coordonnees_depart": [46.4025, 5.9260],
+        "distance_km": 16.5,
+        "denivele_pos_m": 720,
+        "denivele_neg_m": 720,
+        "duree_h": 5.5,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1621,
+        "description": "Randonnée engagée jusqu'au Grand Crêt d'Eau (1621m). Long dénivelé, crêtes exposées avec vue panoramique sur l'Arc jurassien et les Alpes.",
+        "points_interet": ["Grand Crêt d'Eau 1621m", "Vue Arc jurassien", "Crêtes panoramiques"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/e1064042668",
+        "gpx_file": "P17_grand_cret_eau.gpx",
+        "note": 4.6,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P18",
+        "nom": "Boucle des Lacs de la Vallée de la Valserine",
+        "depart": "Lélex",
+        "coordonnees_depart": [46.3510, 5.9340],
+        "distance_km": 14.2,
+        "denivele_pos_m": 650,
+        "denivele_neg_m": 650,
+        "duree_h": 4.8,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1450,
+        "description": "Boucle dans le massif du Jura côté Ain. Forêts, lacs d'altitude et crêtes de la Valserine. Terrain parfois délicat.",
+        "points_interet": ["Lacs de la Valserine", "Crêtes du Jura méridional", "Lélex village"],
+        "gpx_file": "P18_valserine_lacs.gpx",
+        "note": 4.3,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P19",
+        "nom": "Tour du Lac de Bellefontaine",
+        "depart": "Bellefontaine",
+        "coordonnees_depart": [46.5035, 6.0302],
+        "distance_km": 6.2,
+        "denivele_pos_m": 110,
+        "denivele_neg_m": 110,
+        "duree_h": 1.8,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1100,
+        "description": "Tour du lac naturel de Bellefontaine. Très facile, accessible en famille. Abords du lac prisés pour la baignade l'été. Vue sur les forêts.",
+        "points_interet": ["Lac de Bellefontaine", "Baignade estivale", "Forêt"],
+        "gpx_file": "P19_lac_bellefontaine.gpx",
+        "note": 4.0,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "P20",
+        "nom": "Traversée de la Forêt du Risoux",
+        "depart": "Bois d'Amont",
+        "coordonnees_depart": [46.5020, 6.0700],
+        "distance_km": 18.4,
+        "denivele_pos_m": 380,
+        "denivele_neg_m": 380,
+        "duree_h": 5.5,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1200,
+        "description": "Grande boucle forestière dans la forêt du Risoux, l'une des plus grandes forêts de résineux d'Europe. Navigation parfois délicate, ambiance sauvage.",
+        "points_interet": ["Forêt du Risoux", "Frontière franco-suisse", "Bois d'Amont"],
+        "gpx_file": "P20_traversee_risoux.gpx",
+        "note": 4.4,
+        "saisons": ["printemps", "été", "automne"]
       }
     ],
     "vtt": [
@@ -263,10 +386,7 @@
         "id": "V01",
         "nom": "Vue panoramique Lac Léman – Les Rousses",
         "depart": "Les Rousses",
-        "coordonnees_depart": [
-          46.474,
-          6.062
-        ],
+        "coordonnees_depart": [46.4740, 6.0620],
         "distance_km": 38.2,
         "denivele_pos_m": 800,
         "denivele_neg_m": 800,
@@ -274,30 +394,18 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1450,
-        "description": "Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques. Excellente maîtrise recommandée.",
-        "points_interet": [
-          "Vue Lac Léman",
-          "Crêtes Jura",
-          "Forêts Haut-Jura"
-        ],
+        "description": "Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques.",
+        "points_interet": ["Vue Lac Léman", "Crêtes Jura"],
         "komoot_url": "https://www.komoot.com/fr-fr/smarttour/16204702",
         "gpx_file": "V01_panoramique_leman.gpx",
         "note": 4.7,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "V02",
         "nom": "Boucle Les Rousses – La Cure",
-        "depart": "La Cure (frontière franco-suisse)",
-        "coordonnees_depart": [
-          46.4655,
-          6.0892
-        ],
+        "depart": "La Cure",
+        "coordonnees_depart": [46.4655, 6.0892],
         "distance_km": 20.1,
         "denivele_pos_m": 370,
         "denivele_neg_m": 370,
@@ -305,30 +413,18 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1200,
-        "description": "Boucle VTT accessible depuis La Cure à la frontière. Chemins forestiers et pistes, accessible à tous niveaux VTT. Traversée de la forêt du Risoux.",
-        "points_interet": [
-          "Forêt du Risoux",
-          "Frontière franco-suisse",
-          "La Cure"
-        ],
+        "description": "Boucle VTT accessible depuis La Cure. Chemins forestiers et pistes dans la forêt du Risoux.",
+        "points_interet": ["Forêt du Risoux", "Frontière franco-suisse"],
         "komoot_url": "https://www.komoot.com/fr-fr/smarttour/21074498",
         "gpx_file": "V02_rousses_cure.gpx",
         "note": 4.6,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "V03",
         "nom": "Boucle Saint-Cergue – Vue Léman",
         "depart": "La Cure",
-        "coordonnees_depart": [
-          46.4655,
-          6.0892
-        ],
+        "coordonnees_depart": [46.4655, 6.0892],
         "distance_km": 27.5,
         "denivele_pos_m": 590,
         "denivele_neg_m": 590,
@@ -336,30 +432,18 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1350,
-        "description": "Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman. Chemins techniques par endroits.",
-        "points_interet": [
-          "Saint-Cergue",
-          "Vue Lac Léman",
-          "Jura Vaudois"
-        ],
+        "description": "Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman.",
+        "points_interet": ["Saint-Cergue", "Vue Lac Léman", "Jura Vaudois"],
         "komoot_url": "https://www.komoot.com/fr-fr/smarttour/11995868",
         "gpx_file": "V03_saint_cergue_leman.gpx",
         "note": 4.8,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "V04",
         "nom": "Grande Boucle Lac des Rousses",
         "depart": "La Cure",
-        "coordonnees_depart": [
-          46.4655,
-          6.0892
-        ],
+        "coordonnees_depart": [46.4655, 6.0892],
         "distance_km": 45.1,
         "denivele_pos_m": 630,
         "denivele_neg_m": 630,
@@ -367,30 +451,18 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1250,
-        "description": "Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles. Tour complet du secteur nordique.",
-        "points_interet": [
-          "Lac des Rousses",
-          "Fort des Rousses",
-          "Bois d'Amont"
-        ],
+        "description": "Grande boucle VTT autour du lac des Rousses. Parcours varié mêlant chemins forestiers, routes et singles.",
+        "points_interet": ["Lac des Rousses", "Fort des Rousses", "Bois d'Amont"],
         "komoot_url": "https://www.komoot.com/fr-fr/smarttour/28237921",
         "gpx_file": "V04_grande_boucle_lac.gpx",
         "note": 4.2,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
       },
       {
         "id": "V05",
         "nom": "Boucle Technique Vue Rousses",
         "depart": "La Cure",
-        "coordonnees_depart": [
-          46.4655,
-          6.0892
-        ],
+        "coordonnees_depart": [46.4655, 6.0892],
         "distance_km": 40.9,
         "denivele_pos_m": 770,
         "denivele_neg_m": 770,
@@ -398,16 +470,163 @@
         "difficulte": "Difficile",
         "type": "Boucle",
         "altitude_max_m": 1400,
-        "description": "Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis. Vues magnifiques sur Les Rousses.",
+        "description": "Circuit VTT difficile avec quelques portions pouvant nécessiter de pousser le vélo. Excellent niveau de pilotage requis.",
         "komoot_url": "https://www.komoot.com/fr-fr/smarttour/36008520",
         "gpx_file": "V05_boucle_technique.gpx",
         "note": 4.6,
-        "saisons": [
-          "printemps",
-          "été",
-          "automne"
-        ],
-        "source_distances": "Komoot (scraping CF)"
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V06",
+        "nom": "Église Saint-Michel de Morbier – Boucle",
+        "depart": "Morbier",
+        "coordonnees_depart": [46.5468, 6.0188],
+        "distance_km": 24.3,
+        "denivele_pos_m": 520,
+        "denivele_neg_m": 520,
+        "duree_h": 2.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1050,
+        "description": "Boucle VTT autour de Morbier. Chemins agricoles, forêts mixtes et vues sur la combe. Accès direct depuis Morez (5 min).",
+        "points_interet": ["Église Saint-Michel", "Combe de Morbier", "Fromages Morbier"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/26173193",
+        "gpx_file": "V06_morbier_saint_michel.gpx",
+        "note": 4.0,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V07",
+        "nom": "Boucle Vue sur Les Rousses – Chalet de la Frasse",
+        "depart": "Les Rousses",
+        "coordonnees_depart": [46.4740, 6.0620],
+        "distance_km": 33.6,
+        "denivele_pos_m": 680,
+        "denivele_neg_m": 680,
+        "duree_h": 2.8,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1350,
+        "description": "Boucle VTT depuis Les Rousses passant par le chalet de la Frasse. Pâturages et forêts avec panoramas sur le plateau.",
+        "points_interet": ["Chalet de la Frasse", "Vue Les Rousses", "Pâturages jurassiens"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/18154250",
+        "gpx_file": "V07_rousses_frasse.gpx",
+        "note": 4.3,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V08",
+        "nom": "Boucle Belvédère Roche Champion – Lac Vouglans",
+        "depart": "Maisod",
+        "coordonnees_depart": [46.4530, 5.7790],
+        "distance_km": 29.5,
+        "denivele_pos_m": 610,
+        "denivele_neg_m": 610,
+        "duree_h": 2.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 680,
+        "description": "VTT avec vue imprenable sur le lac de Vouglans depuis la Roche Champion. Chemins forestiers et crêtes calcaires.",
+        "points_interet": ["Roche Champion", "Lac de Vouglans 1600ha", "Belvédère"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/8002783",
+        "gpx_file": "V08_roche_champion_vouglans.gpx",
+        "note": 4.4,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V09",
+        "nom": "La Pesse – Boucle Engagée",
+        "depart": "La Pesse",
+        "coordonnees_depart": [46.3180, 5.8640],
+        "distance_km": 38.5,
+        "denivele_pos_m": 910,
+        "denivele_neg_m": 910,
+        "duree_h": 3.8,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1360,
+        "description": "Boucle VTT musclée depuis La Pesse. Crêtes, forêts profondes et descentes techniques. Station réputée pour le VTT engagé.",
+        "points_interet": ["Crêtes La Pesse", "Vue massif Jura", "Singles techniques"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/11996375",
+        "gpx_file": "V09_la_pesse_boucle.gpx",
+        "note": 4.5,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V10",
+        "nom": "Boucle Grand Maclu – Lac de Narlay",
+        "depart": "Chaux-des-Crotenay",
+        "coordonnees_depart": [46.7100, 5.9060],
+        "distance_km": 41.2,
+        "denivele_pos_m": 780,
+        "denivele_neg_m": 780,
+        "duree_h": 3.5,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 820,
+        "description": "Grande boucle VTT autour des lacs de la Haute-Jura. Passant par le Grand Maclu et le lac de Narlay. Chemins forestiers et passages techniques.",
+        "points_interet": ["Lac du Grand Maclu", "Lac de Narlay", "Forêts Comtois"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/38727732",
+        "gpx_file": "V10_grand_maclu_narlay.gpx",
+        "note": 4.3,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V11",
+        "nom": "Barrage de Vouglans – Belvédère",
+        "depart": "Pont-de-Poitte",
+        "coordonnees_depart": [46.5240, 5.7610],
+        "distance_km": 46.8,
+        "denivele_pos_m": 850,
+        "denivele_neg_m": 850,
+        "duree_h": 4.1,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 650,
+        "description": "Grande boucle autour du lac de Vouglans. Alternance rives, belvédères et forêts. Barrage impressionnant (103m de haut). Effort soutenu.",
+        "points_interet": ["Barrage de Vouglans 103m", "Belvédère du lac", "Lac 35km de long"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/7884455",
+        "gpx_file": "V11_barrage_vouglans.gpx",
+        "note": 4.4,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V12",
+        "nom": "Crêtes des Trois Commères – Trou Bleu",
+        "depart": "Morbier",
+        "coordonnees_depart": [46.5468, 6.0188],
+        "distance_km": 21.0,
+        "denivele_pos_m": 490,
+        "denivele_neg_m": 490,
+        "duree_h": 1.9,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1020,
+        "description": "Boucle VTT autour des Trois Commères avec passage au Trou Bleu, résurgence karstique spectaculaire. Proche de Morez.",
+        "points_interet": ["Crêtes des Trois Commères", "Trou Bleu (résurgence)", "Vue Morez"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/21079416",
+        "gpx_file": "V12_trois_commeres_trou_bleu.gpx",
+        "note": 4.2,
+        "saisons": ["printemps", "été", "automne"]
+      },
+      {
+        "id": "V13",
+        "nom": "Boucle Vue sur le lac de Vouglans – Orgelet",
+        "depart": "Orgelet",
+        "coordonnees_depart": [46.5260, 5.6150],
+        "distance_km": 36.4,
+        "denivele_pos_m": 720,
+        "denivele_neg_m": 720,
+        "duree_h": 3.1,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 700,
+        "description": "Boucle VTT depuis Orgelet avec vues plongeantes sur le lac de Vouglans. Chemins calcaires et passages délicats par endroit.",
+        "points_interet": ["Vues lac Vouglans", "Orgelet village médiéval", "Crêtes calcaires"],
+        "komoot_url": "https://www.komoot.com/fr-fr/smarttour/41078718",
+        "gpx_file": "V13_vouglans_orgelet.gpx",
+        "note": 4.3,
+        "saisons": ["printemps", "été", "automne"]
       }
     ],
     "ski_de_fond": [
@@ -415,64 +634,45 @@
         "id": "SF01",
         "nom": "Pistes Les Rousses – Forêt du Risoux",
         "depart": "Station des Rousses (La Serra)",
-        "coordonnees_depart": [
-          46.474,
-          6.043
-        ],
+        "coordonnees_depart": [46.4740, 6.0430],
         "distance_km": 25.0,
         "denivele_pos_m": 200,
         "duree_h": 3.0,
         "difficulte": "Modéré",
         "type": "Boucle (réseau)",
         "altitude_max_m": 1180,
-        "description": "Réseau nordique des Rousses avec 150km de pistes damées. Traversée de la forêt du Risoux jusqu'à la frontière suisse. Classique et skating. Domaine Espace Nordique Jurassien.",
-        "points_interet": [
-          "Forêt du Risoux",
-          "Frontière suisse",
-          "Chalet des Tuffes 1250m"
-        ],
-        "info_url": "https://www.lesrousses.com/station-des-rousses-hiver/activites-nordiques-jura/ski-de-fond-dans-le-jura/",
+        "description": "Réseau nordique des Rousses avec 150km de pistes damées. Traversée de la forêt du Risoux jusqu'à la frontière suisse. Classique et skating.",
+        "points_interet": ["Forêt du Risoux", "Frontière suisse", "Chalet des Tuffes 1250m"],
+        "info_url": "https://www.lesrousses.com/activites-nordiques/ski-de-fond/",
         "gpx_file": "SF01_rousses_risoux.gpx",
         "forfait": "Espace Nordique Jurassien",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.8,
+        "saisons": ["hiver"]
       },
       {
         "id": "SF02",
-        "nom": "GTJ Ski de Fond – Bellefontaine",
+        "nom": "GTJ Ski de Fond – Bellefontaine → Bois d'Amont",
         "depart": "Bellefontaine",
-        "coordonnees_depart": [
-          46.5035,
-          6.0302
-        ],
+        "coordonnees_depart": [46.5035, 6.0302],
         "distance_km": 11.5,
         "denivele_pos_m": 150,
         "duree_h": 1.5,
         "difficulte": "Facile",
         "type": "Linéaire (GTJ)",
         "altitude_max_m": 1200,
-        "description": "Étape GTJ ski de fond Bellefontaine → Bois d'Amont (8km) ou depuis Chapelle des Bois (11.5km). Paysages forestiers typiques Haut-Jura. Pistes damées.",
-        "points_interet": [
-          "Bellefontaine village",
-          "Lac de Bellefontaine",
-          "Forêts Haut-Jura"
-        ],
+        "description": "Étape GTJ ski de fond Bellefontaine → Bois d'Amont. Paysages forestiers typiques Haut-Jura. Pistes damées Espace Nordique.",
+        "points_interet": ["Bellefontaine", "Lac de Bellefontaine", "Bois d'Amont"],
         "info_url": "https://www.espacenordiquejurassien.com/annuaire/site_nordique_de_bellefontaine~187295e84b99b17524fb2076739.html",
         "gpx_file": "SF02_gtj_bellefontaine.gpx",
         "forfait": "Espace Nordique Jurassien",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.2,
+        "saisons": ["hiver"]
       },
       {
         "id": "SF03",
         "nom": "Pistes Longchaumois – Lamoura",
         "depart": "Longchaumois",
-        "coordonnees_depart": [
-          46.4468,
-          5.9625
-        ],
+        "coordonnees_depart": [46.4468, 5.9625],
         "distance_km": 15.0,
         "denivele_pos_m": 180,
         "duree_h": 2.0,
@@ -480,16 +680,85 @@
         "type": "Boucle",
         "altitude_max_m": 1150,
         "description": "Liaison nordique Longchaumois–Lamoura reliée aux Rousses. Paysages de combes et forêts. Accessible depuis Morez en 15 min.",
-        "points_interet": [
-          "Lamoura village",
-          "Combes jurassiennes",
-          "Liaison domaine Rousses"
-        ],
+        "points_interet": ["Lamoura village", "Liaison domaine Rousses"],
         "gpx_file": "SF03_longchaumois_lamoura.gpx",
         "forfait": "Espace Nordique Jurassien",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.3,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "SF04",
+        "nom": "Marathon du Doubs – Grand Bornand Haut-Jura",
+        "depart": "Chapelle-des-Bois",
+        "coordonnees_depart": [46.5640, 6.1430],
+        "distance_km": 42.0,
+        "denivele_pos_m": 480,
+        "duree_h": 5.5,
+        "difficulte": "Difficile",
+        "type": "Linéaire (GTJ)",
+        "altitude_max_m": 1300,
+        "description": "La grande traversée nordique du Haut-Jura. 42km de skating ou classique dans la forêt du Risoux et les pâturages d'altitude. Effort d'endurance majeur.",
+        "points_interet": ["Chapelle-des-Bois", "Forêt du Risoux", "Frontière suisse", "Pâturages d'altitude"],
+        "info_url": "https://www.espacenordiquejurassien.com",
+        "gpx_file": "SF04_marathon_haut_jura.gpx",
+        "forfait": "Espace Nordique Jurassien",
+        "note": 4.7,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "SF05",
+        "nom": "La Diagonale des Rousses – Nyon (CH)",
+        "depart": "Les Rousses",
+        "coordonnees_depart": [46.4740, 6.0620],
+        "distance_km": 28.0,
+        "denivele_pos_m": 350,
+        "duree_h": 3.5,
+        "difficulte": "Difficile",
+        "type": "Linéaire",
+        "altitude_max_m": 1350,
+        "description": "Traversée transfrontalière ski de fond depuis Les Rousses jusqu'à Nyon (Suisse) en passant par La Cure et le Jura vaudois. Expérience nordique exceptionnelle.",
+        "points_interet": ["La Cure (frontière)", "Jura vaudois", "Nyon et lac Léman"],
+        "gpx_file": "SF05_rousses_nyon.gpx",
+        "forfait": "Espace Nordique Jurassien + Swiss Nordic",
+        "note": 4.9,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "SF06",
+        "nom": "Boucle Prémanon – Lamoura Skating",
+        "depart": "Prémanon",
+        "coordonnees_depart": [46.4585, 6.0388],
+        "distance_km": 20.0,
+        "denivele_pos_m": 230,
+        "duree_h": 2.3,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1200,
+        "description": "Boucle skating entre Prémanon et Lamoura. Pistes très bien damées, idéales pour progresser en skating. Paysages nordiques typiques.",
+        "points_interet": ["Prémanon Nordic Centre", "Lamoura", "Crêtes enneigées"],
+        "gpx_file": "SF06_premanon_lamoura_skating.gpx",
+        "forfait": "Espace Nordique Jurassien",
+        "note": 4.5,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "SF07",
+        "nom": "Grande Traversée du Jura – Étape Mouthe→Rousses",
+        "depart": "Mouthe",
+        "coordonnees_depart": [46.7060, 6.2010],
+        "distance_km": 55.0,
+        "denivele_pos_m": 620,
+        "duree_h": 7.0,
+        "difficulte": "Difficile",
+        "type": "Linéaire (GTJ)",
+        "altitude_max_m": 1300,
+        "description": "Étape mythique de la GTJ ski de fond. 55km d'une traite de Mouthe aux Rousses. Réservé aux skieurs aguerris et entraînés. La traversée nordique la plus engagée du Jura.",
+        "points_interet": ["Mouthe (source du Doubs)", "Chaux-Neuve", "Chapelle-des-Bois", "Forêt du Risoux"],
+        "info_url": "https://www.grandetraverseeduJura.com/ski-nordique",
+        "gpx_file": "SF07_gtj_mouthe_rousses.gpx",
+        "forfait": "Espace Nordique Jurassien",
+        "note": 4.9,
+        "saisons": ["hiver"]
       }
     ],
     "raquettes": [
@@ -497,10 +766,7 @@
         "id": "R01",
         "nom": "Raquettes Bellefontaine – Roche Bernard",
         "depart": "Bellefontaine",
-        "coordonnees_depart": [
-          46.5035,
-          6.0302
-        ],
+        "coordonnees_depart": [46.5035, 6.0302],
         "distance_km": 10.7,
         "denivele_pos_m": 529,
         "denivele_neg_m": 529,
@@ -508,53 +774,37 @@
         "difficulte": "Modéré",
         "type": "Boucle",
         "altitude_max_m": 1341,
-        "description": "Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard. Vues sur les vallées alentours. Non damé, peut être technique après chutes de neige.",
-        "points_interet": [
-          "Roche Bernard 1341m",
-          "Vues sur vallées",
-          "Forêt enneigée"
-        ],
+        "description": "Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard (1341m). Vues sur les vallées alentours. Non damé, terrain technique après chutes de neige.",
+        "points_interet": ["Roche Bernard 1341m", "Vues sur vallées", "Forêt enneigée"],
         "info_url": "https://fr-fr.trails-viewer.com/trail-3hw18/Raquettes-Bellefontaine-Roche-Bernard/",
         "gpx_file": "R01_bellefontaine_roche_bernard.gpx",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.2,
+        "saisons": ["hiver"]
       },
       {
         "id": "R02",
         "nom": "Raquettes Boucle Les Rousses – La Frasse",
         "depart": "Les Rousses (La Darbella)",
-        "coordonnees_depart": [
-          46.474,
-          6.055
-        ],
+        "coordonnees_depart": [46.4740, 6.0550],
         "distance_km": 10.7,
-        "denivele_pos_m": 529,
-        "denivele_neg_m": 529,
+        "denivele_pos_m": 320,
+        "denivele_neg_m": 320,
         "duree_h": 3.5,
         "difficulte": "Modéré",
         "type": "Boucle",
-        "altitude_max_m": 1552,
-        "description": "18 itinéraires raquettes (85km) disponibles depuis Les Rousses. Cette boucle part de La Darbella/La Frasse. Paysages nordiques, forêts et combes.",
-        "points_interet": [
-          "La Frasse",
-          "Forêt du Risoux",
-          "Combes nordiques"
-        ],
-        "info_url": "https://www.espacenordiquejurassien.com/annuaire/site_nordique_des_rousses_-_station_des_rousses~66328507748e73884a67b1b09f9.html",
+        "altitude_max_m": 1350,
+        "description": "18 itinéraires raquettes (85km) disponibles aux Rousses. Cette boucle part de La Darbella vers La Frasse. Paysages nordiques, forêts et combes.",
+        "points_interet": ["La Frasse", "Forêt du Risoux", "Combes nordiques"],
+        "info_url": "https://www.espacenordiquejurassien.com",
         "gpx_file": "R02_rousses_frasse.gpx",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.3,
+        "saisons": ["hiver"]
       },
       {
         "id": "R03",
         "nom": "Raquettes Plan des Eaux – Prémanon",
         "depart": "Prémanon",
-        "coordonnees_depart": [
-          46.4585,
-          6.0388
-        ],
+        "coordonnees_depart": [46.4585, 6.0388],
         "distance_km": 7.0,
         "denivele_pos_m": 200,
         "denivele_neg_m": 200,
@@ -563,15 +813,136 @@
         "type": "Boucle",
         "altitude_max_m": 1200,
         "description": "Boucle raquettes familiale au départ de Prémanon. Forêt enneigée, clairières et panoramas hivernaux. Idéal initiation raquettes.",
-        "points_interet": [
-          "Forêt Prémanon",
-          "Plan des Eaux",
-          "Vue Haut-Jura"
-        ],
+        "points_interet": ["Forêt Prémanon", "Plan des Eaux", "Vue Haut-Jura"],
         "gpx_file": "R03_premanon_plan_eaux.gpx",
-        "saisons": [
-          "hiver"
-        ]
+        "note": 4.0,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R04",
+        "nom": "Raquettes Forêt du Risoux – La Cure",
+        "depart": "La Cure",
+        "coordonnees_depart": [46.4655, 6.0892],
+        "distance_km": 12.5,
+        "denivele_pos_m": 280,
+        "denivele_neg_m": 280,
+        "duree_h": 4.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1250,
+        "description": "Immersion dans la forêt du Risoux en raquettes depuis La Cure. Sous-bois enneigés, silence absolu, sapins couverts de givre. Ambiance féerique.",
+        "points_interet": ["Forêt du Risoux", "Frontière franco-suisse", "La Cure"],
+        "gpx_file": "R04_risoux_la_cure.gpx",
+        "note": 4.6,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R05",
+        "nom": "Raquettes Lamoura – Longchaumois",
+        "depart": "Lamoura",
+        "coordonnees_depart": [46.3980, 5.9750],
+        "distance_km": 9.5,
+        "denivele_pos_m": 320,
+        "denivele_neg_m": 320,
+        "duree_h": 3.2,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1150,
+        "description": "Boucle raquettes entre Lamoura et Longchaumois. Pâturages enneigés, combes et forêts. Vue sur les crêtes du massif.",
+        "points_interet": ["Lamoura", "Longchaumois", "Crêtes enneigées"],
+        "gpx_file": "R05_lamoura_longchaumois.gpx",
+        "note": 4.1,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R06",
+        "nom": "Raquettes Crête du Noirmont",
+        "depart": "Les Rousses",
+        "coordonnees_depart": [46.4740, 6.0620],
+        "distance_km": 14.2,
+        "denivele_pos_m": 450,
+        "denivele_neg_m": 450,
+        "duree_h": 5.0,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1552,
+        "description": "En raquettes jusqu'au Noirmont (1552m). Ambiance polaire garantie, navigation à la carte par conditions de neige fraîche. Vue imprenable.",
+        "points_interet": ["Noirmont 1552m", "Vue panoramique", "Crête frontière"],
+        "gpx_file": "R06_crete_noirmont_raquettes.gpx",
+        "note": 4.7,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R07",
+        "nom": "Raquettes Chapelle-des-Bois – Tourbière",
+        "depart": "Chapelle-des-Bois",
+        "coordonnees_depart": [46.5640, 6.1430],
+        "distance_km": 8.0,
+        "denivele_pos_m": 180,
+        "denivele_neg_m": 180,
+        "duree_h": 3.0,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1230,
+        "description": "Découverte de la tourbière de Chapelle-des-Bois en raquettes. Paysage unique et préservé. La tourbière gelée en hiver est un spectacle rare.",
+        "points_interet": ["Tourbière de Chapelle-des-Bois", "Réserve naturelle", "Forêts"],
+        "gpx_file": "R07_chapelle_bois_tourbiere.gpx",
+        "note": 4.4,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R08",
+        "nom": "Raquettes Grand Tour Bois d'Amont",
+        "depart": "Bois d'Amont",
+        "coordonnees_depart": [46.5020, 6.0700],
+        "distance_km": 16.0,
+        "denivele_pos_m": 520,
+        "denivele_neg_m": 520,
+        "duree_h": 5.5,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1300,
+        "description": "Grande boucle raquettes depuis Bois d'Amont vers les crêtes et retour par la forêt. Engagement physique réel, orientiation conseillée. Réservé aux raquettistes expérimentés.",
+        "points_interet": ["Crêtes Bois d'Amont", "Forêt profonde", "Vue plateau"],
+        "gpx_file": "R08_grand_tour_bois_amont.gpx",
+        "note": 4.5,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R09",
+        "nom": "Raquettes Septmoncel – Crête de la Haute Joux",
+        "depart": "Septmoncel",
+        "coordonnees_depart": [46.4025, 5.9260],
+        "distance_km": 11.0,
+        "denivele_pos_m": 480,
+        "denivele_neg_m": 480,
+        "duree_h": 4.2,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1400,
+        "description": "Boucle raquettes engagée depuis Septmoncel vers la crête de la Haute Joux. Terrain accidenté, passages dans la neige profonde. Vue sur les Alpes par beau temps.",
+        "points_interet": ["Crête Haute Joux", "Vue Alpes", "Septmoncel village"],
+        "gpx_file": "R09_septmoncel_haute_joux.gpx",
+        "note": 4.4,
+        "saisons": ["hiver"]
+      },
+      {
+        "id": "R10",
+        "nom": "Raquettes La Dôle Versant Nord",
+        "depart": "La Cure",
+        "coordonnees_depart": [46.4655, 6.0892],
+        "distance_km": 10.0,
+        "denivele_pos_m": 560,
+        "denivele_neg_m": 560,
+        "duree_h": 4.5,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1677,
+        "description": "Montée en raquettes au sommet de La Dôle (1677m) par le versant nord. Plus engagé qu'en été, neige soufflée sur les crêtes. Vue exceptionnelle par beau temps.",
+        "points_interet": ["Sommet La Dôle 1677m", "Versant nord sauvage", "Vue 360°"],
+        "gpx_file": "R10_dole_versant_nord_raquettes.gpx",
+        "note": 4.8,
+        "saisons": ["hiver"]
       }
     ]
   }

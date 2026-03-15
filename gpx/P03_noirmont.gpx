@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Sentier du Noirmont</name>
-    <desc>Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé. Géologie jurassienne remarquable.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Sentier du Noirmont</name>
-    <desc>Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé. Géologie jurassienne remarquable.</desc>
+    <desc>Traversée du Noirmont et du Mont Sâla par le Creux du Croue. Vue magnifique sur le Léman et les Alpes si temps dégagé.</desc>
     <trkseg>
       <trkpt lat="46.495720" lon="6.062000">
         <ele>900.0</ele>

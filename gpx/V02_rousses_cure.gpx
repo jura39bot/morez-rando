@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Boucle Les Rousses – La Cure</name>
-    <desc>Boucle VTT accessible depuis La Cure à la frontière. Chemins forestiers et pistes, accessible à tous niveaux VTT. Traversée de la forêt du Risoux.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Boucle VTT accessible depuis La Cure. Chemins forestiers et pistes dans la forêt du Risoux.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Boucle Les Rousses – La Cure</name>
-    <desc>Boucle VTT accessible depuis La Cure à la frontière. Chemins forestiers et pistes, accessible à tous niveaux VTT. Traversée de la forêt du Risoux.</desc>
+    <desc>Boucle VTT accessible depuis La Cure. Chemins forestiers et pistes dans la forêt du Risoux.</desc>
     <trkseg>
       <trkpt lat="46.496909" lon="6.089200">
         <ele>1000.0</ele>

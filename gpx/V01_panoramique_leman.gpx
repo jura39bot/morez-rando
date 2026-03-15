@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Vue panoramique Lac Léman – Les Rousses</name>
-    <desc>Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques. Excellente maîtrise recommandée.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Vue panoramique Lac Léman – Les Rousses</name>
-    <desc>Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques. Excellente maîtrise recommandée.</desc>
+    <desc>Grande boucle VTT depuis Les Rousses avec vue exceptionnelle sur le lac Léman. Forêts, alpages, chemins techniques.</desc>
     <trkseg>
       <trkpt lat="46.533692" lon="6.062000">
         <ele>1000.0</ele>

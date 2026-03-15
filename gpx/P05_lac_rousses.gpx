@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Tour du Lac des Rousses</name>
-    <desc>Tour complet du lac des Rousses, le plus grand lac naturel du Haut-Jura (95ha). Chemin plat, idéal famille et débutants. Vues sur les montagnes.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Tour complet du lac des Rousses (95ha), le plus grand lac naturel du Haut-Jura. Chemin plat, idéal famille et débutants.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Tour du Lac des Rousses</name>
-    <desc>Tour complet du lac des Rousses, le plus grand lac naturel du Haut-Jura (95ha). Chemin plat, idéal famille et débutants. Vues sur les montagnes.</desc>
+    <desc>Tour complet du lac des Rousses (95ha), le plus grand lac naturel du Haut-Jura. Chemin plat, idéal famille et débutants.</desc>
     <trkseg>
       <trkpt lat="46.488391" lon="6.052000">
         <ele>900.0</ele>

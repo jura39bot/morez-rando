@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="morez-rando"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Boucle Grand Maclu – Lac de Narlay</name>
+    <desc>Grande boucle VTT autour des lacs de la Haute-Jura. Passant par le Grand Maclu et le lac de Narlay. Chemins forestiers et passages techniques.</desc>
+    <time>2026-03-15T14:26:42Z</time>
+    <keywords>jura, morez, randonnée, haut-jura</keywords>
+    <bounds/>
+  </metadata>
+  <trk>
+    <name>Boucle Grand Maclu – Lac de Narlay</name>
+    <desc>Grande boucle VTT autour des lacs de la Haute-Jura. Passant par le Grand Maclu et le lac de Narlay. Chemins forestiers et passages techniques.</desc>
+    <trkseg>
+      <trkpt lat="46.774380" lon="5.906000">
+        <ele>1000.0</ele>
+      </trkpt>
+      <trkpt lat="46.775557" lon="5.916049">
+        <ele>1026.9</ele>
+      </trkpt>
+      <trkpt lat="46.773937" lon="5.925820">
+        <ele>1055.2</ele>
+      </trkpt>
+      <trkpt lat="46.770907" lon="5.934861">
+        <ele>1084.6</ele>
+      </trkpt>
+      <trkpt lat="46.767965" lon="5.943637">
+        <ele>1114.1</ele>
+      </trkpt>
+      <trkpt lat="46.765791" lon="5.952976">
+        <ele>1142.9</ele>
+      </trkpt>
+      <trkpt lat="46.763914" lon="5.963126">
+        <ele>1170.2</ele>
+      </trkpt>
+      <trkpt lat="46.761117" lon="5.973123">
+        <ele>1195.2</ele>
+      </trkpt>
+      <trkpt lat="46.756319" lon="5.981023">
+        <ele>1217.5</ele>
+      </trkpt>
+      <trkpt lat="46.749328" lon="5.984943">
+        <ele>1237.3</ele>
+      </trkpt>
+      <trkpt lat="46.740998" lon="5.984300">
+        <ele>1255.0</ele>
+      </trkpt>
+      <trkpt lat="46.732719" lon="5.980417">
+        <ele>1271.7</ele>
+      </trkpt>
+      <trkpt lat="46.725604" lon="5.976039">
+        <ele>1288.4</ele>
+      </trkpt>
+      <trkpt lat="46.719904" lon="5.973951">
+        <ele>1306.6</ele>
+      </trkpt>
+      <trkpt lat="46.715009" lon="5.975497">
+        <ele>1327.6</ele>
+      </trkpt>
+      <trkpt lat="46.710000" lon="5.979895">
+        <ele>1352.6</ele>
+      </trkpt>
+      <trkpt lat="46.704324" lon="5.984753">
+        <ele>1382.2</ele>
+      </trkpt>
+      <trkpt lat="46.698124" lon="5.987482">
+        <ele>1416.4</ele>
+      </trkpt>
+      <trkpt lat="46.692011" lon="5.986742">
+        <ele>1454.9</ele>
+      </trkpt>
+      <trkpt lat="46.686475" lon="5.983059">
+        <ele>1496.5</ele>
+      </trkpt>
+      <trkpt lat="46.681387" lon="5.978277">
+        <ele>1539.5</ele>
+      </trkpt>
+      <trkpt lat="46.676003" lon="5.974241">
+        <ele>1581.9</ele>
+      </trkpt>
+      <trkpt lat="46.669511" lon="5.971580">
+        <ele>1621.6</ele>
+      </trkpt>
+      <trkpt lat="46.661766" lon="5.969337">
+        <ele>1656.8</ele>
+      </trkpt>
+      <trkpt lat="46.653702" lon="5.965652">
+        <ele>1685.7</ele>
+      </trkpt>
+      <trkpt lat="46.647055" lon="5.958999">
+        <ele>1707.7</ele>
+      </trkpt>
+      <trkpt lat="46.643513" lon="5.949171">
+        <ele>1722.5</ele>
+      </trkpt>
+      <trkpt lat="46.643761" lon="5.937388">
+        <ele>1730.9</ele>
+      </trkpt>
+      <trkpt lat="46.647039" lon="5.925517">
+        <ele>1734.6</ele>
+      </trkpt>
+      <trkpt lat="46.651492" lon="5.914968">
+        <ele>1735.9</ele>
+      </trkpt>
+      <trkpt lat="46.655158" lon="5.906000">
+        <ele>1737.6</ele>
+      </trkpt>
+      <trkpt lat="46.656988" lon="5.897874">
+        <ele>1694.5</ele>
+      </trkpt>
+      <trkpt lat="46.657320" lon="5.889670">
+        <ele>1659.1</ele>
+      </trkpt>
+      <trkpt lat="46.657521" lon="5.881132">
+        <ele>1631.8</ele>
+      </trkpt>
+      <trkpt lat="46.659050" lon="5.872918">
+        <ele>1612.2</ele>
+      </trkpt>
+      <trkpt lat="46.662543" lon="5.866041">
+        <ele>1599.1</ele>
+      </trkpt>
+      <trkpt lat="46.667462" lon="5.860927">
+        <ele>1590.5</ele>
+      </trkpt>
+      <trkpt lat="46.672518" lon="5.856781">
+        <ele>1584.2</ele>
+      </trkpt>
+      <trkpt lat="46.676545" lon="5.851812">
+        <ele>1577.7</ele>
+      </trkpt>
+      <trkpt lat="46.679252" lon="5.844279">
+        <ele>1568.9</ele>
+      </trkpt>
+      <trkpt lat="46.681387" lon="5.833723">
+        <ele>1556.1</ele>
+      </trkpt>
+      <trkpt lat="46.684227" lon="5.821578">
+        <ele>1538.0</ele>
+      </trkpt>
+      <trkpt lat="46.688763" lon="5.810679">
+        <ele>1514.4</ele>
+      </trkpt>
+      <trkpt lat="46.695116" lon="5.803880">
+        <ele>1485.4</ele>
+      </trkpt>
+      <trkpt lat="46.702547" lon="5.802579">
+        <ele>1451.9</ele>
+      </trkpt>
+      <trkpt lat="46.710000" lon="5.806024">
+        <ele>1415.4</ele>
+      </trkpt>
+      <trkpt lat="46.716786" lon="5.811835">
+        <ele>1377.3</ele>
+      </trkpt>
+      <trkpt lat="46.722912" lon="5.817411">
+        <ele>1339.4</ele>
+      </trkpt>
+      <trkpt lat="46.728853" lon="5.821381">
+        <ele>1303.0</ele>
+      </trkpt>
+      <trkpt lat="46.734966" lon="5.824220">
+        <ele>1269.3</ele>
+      </trkpt>
+      <trkpt lat="46.740998" lon="5.827700">
+        <ele>1238.7</ele>
+      </trkpt>
+      <trkpt lat="46.746080" lon="5.833577">
+        <ele>1211.5</ele>
+      </trkpt>
+      <trkpt lat="46.749286" lon="5.842369">
+        <ele>1187.2</ele>
+      </trkpt>
+      <trkpt lat="46.750365" lon="5.852995">
+        <ele>1165.2</ele>
+      </trkpt>
+      <trkpt lat="46.750154" lon="5.863454">
+        <ele>1144.3</ele>
+      </trkpt>
+      <trkpt lat="46.750304" lon="5.872064">
+        <ele>1123.6</ele>
+      </trkpt>
+      <trkpt lat="46.752427" lon="5.878452">
+        <ele>1102.1</ele>
+      </trkpt>
+      <trkpt lat="46.757147" lon="5.883659">
+        <ele>1079.2</ele>
+      </trkpt>
+      <trkpt lat="46.763655" lon="5.889368">
+        <ele>1054.4</ele>
+      </trkpt>
+      <trkpt lat="46.770061" lon="5.896794">
+        <ele>1027.9</ele>
+      </trkpt>
+      <trkpt lat="46.774380" lon="5.906000">
+        <ele>1000.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Boucle Saint-Cergue – Vue Léman</name>
-    <desc>Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman. Chemins techniques par endroits.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Boucle Saint-Cergue – Vue Léman</name>
-    <desc>Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman. Chemins techniques par endroits.</desc>
+    <desc>Boucle VTT transfrontalière jusqu'à Saint-Cergue côté suisse. Vue superbe sur le lac Léman.</desc>
     <trkseg>
       <trkpt lat="46.508472" lon="6.089200">
         <ele>1000.0</ele>

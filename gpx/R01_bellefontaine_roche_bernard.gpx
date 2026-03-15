@@ -5,14 +5,14 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Raquettes Bellefontaine – Roche Bernard</name>
-    <desc>Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard. Vues sur les vallées alentours. Non damé, peut être technique après chutes de neige.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <desc>Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard (1341m). Vues sur les vallées alentours. Non damé, terrain technique après chutes de neige.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
     <name>Raquettes Bellefontaine – Roche Bernard</name>
-    <desc>Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard. Vues sur les vallées alentours. Non damé, peut être technique après chutes de neige.</desc>
+    <desc>Boucle raquettes depuis Bellefontaine jusqu'à la Roche Bernard (1341m). Vues sur les vallées alentours. Non damé, terrain technique après chutes de neige.</desc>
     <trkseg>
       <trkpt lat="46.520220" lon="6.030200">
         <ele>1050.0</ele>

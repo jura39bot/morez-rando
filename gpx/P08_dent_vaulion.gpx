@@ -4,15 +4,15 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Dent de Vaulion depuis Le Pont (Suisse)</name>
-    <desc>Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes et le Jura. ~25min de Morez.</desc>
-    <time>2026-03-15T13:07:27Z</time>
+    <name>Dent de Vaulion depuis Le Pont</name>
+    <desc>Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes.</desc>
+    <time>2026-03-15T14:26:42Z</time>
     <keywords>jura, morez, randonnée, haut-jura</keywords>
     <bounds/>
   </metadata>
   <trk>
-    <name>Dent de Vaulion depuis Le Pont (Suisse)</name>
-    <desc>Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes et le Jura. ~25min de Morez.</desc>
+    <name>Dent de Vaulion depuis Le Pont</name>
+    <desc>Randonnée transfrontalière classique. Montée à la Dent de Vaulion (1483m), balcon sur le lac de Joux et vue 360° sur les Alpes.</desc>
     <trkseg>
       <trkpt lat="46.687826" lon="6.332800">
         <ele>900.0</ele>
