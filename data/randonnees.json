@@ -6,8 +6,8 @@
       6.0247
     ],
     "rayon_km": 30,
-    "source": "Komoot, Visorando, Jura Tourisme, Espace Nordique Jurassien",
-    "derniere_maj": "2026-03-15"
+    "source": "Komoot, Visorando, Jura Tourisme, Espace Nordique Jurassien, Arc Jurassien franco-suisse (carte photo)",
+    "derniere_maj": "2026-03-19"
   },
   "randonnees": {
     "pied": [
@@ -4198,6 +4198,366 @@
         "saisons": [
           "hiver"
         ]
+      },
+      {
+        "id": "R21",
+        "nom": "Raquettes Métabief – Mont d'Or",
+        "depart": "Métabief",
+        "coordonnees_depart": [
+          46.7697,
+          6.3286
+        ],
+        "distance_km": 15.0,
+        "denivele_pos_m": 350,
+        "denivele_neg_m": 350,
+        "duree_h": 5.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1461,
+        "description": "Parcours depuis Métabief avec ascension du Mont d'Or (1461m), point culminant du Doubs. Vue sur les Alpes et la Suisse. Site nordique Arc Jurassien.",
+        "points_interet": [
+          "Mont d'Or 1461m",
+          "Vue Alpes",
+          "Vue Lac Léman"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R21_metabief_mont_dor.gpx",
+        "note": 4.6,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Doubs",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R22",
+        "nom": "Raquettes Mouthe – Source du Doubs",
+        "depart": "Mouthe",
+        "coordonnees_depart": [
+          46.7083,
+          6.2069
+        ],
+        "distance_km": 12.0,
+        "denivele_pos_m": 200,
+        "denivele_neg_m": 200,
+        "duree_h": 4.0,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1020,
+        "description": "Raquettes autour de Mouthe, commune la plus froide de France. Lac des Mortes et tourbières. Site Arc Jurassien.",
+        "points_interet": [
+          "Source du Doubs",
+          "Lac des Mortes",
+          "Tourbières"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R22_mouthe_source_doubs.gpx",
+        "note": 4.3,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Doubs",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R23",
+        "nom": "Raquettes Chapelle-des-Bois – Tourbière Forbonnet",
+        "depart": "Chapelle-des-Bois",
+        "coordonnees_depart": [
+          46.6319,
+          6.1481
+        ],
+        "distance_km": 8.5,
+        "denivele_pos_m": 120,
+        "denivele_neg_m": 120,
+        "duree_h": 3.0,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1130,
+        "description": "Tour de la tourbière du Forbonnet Natura 2000. Ambiance nordique, faune hivernale. Site Arc Jurassien.",
+        "points_interet": [
+          "Tourbière Forbonnet",
+          "Faune hivernale",
+          "Natura 2000"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R23_chapelle_bois_forbonnet.gpx",
+        "note": 4.4,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Doubs",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R24",
+        "nom": "Raquettes La Pesse – Plateau Sauvage",
+        "depart": "La Pesse",
+        "coordonnees_depart": [
+          46.2769,
+          5.7458
+        ],
+        "distance_km": 11.0,
+        "denivele_pos_m": 300,
+        "denivele_neg_m": 300,
+        "duree_h": 4.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1370,
+        "description": "Plateau de La Pesse, l'un des sites nordiques les plus sauvages du Jura. Forêts profondes et crêtes. Site Arc Jurassien.",
+        "points_interet": [
+          "Plateau sauvage",
+          "Forêts nordiques",
+          "Crêtes"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R24_la_pesse_plateau.gpx",
+        "note": 4.3,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R25",
+        "nom": "Raquettes Prénovel – Forêt du Massacre",
+        "depart": "Prénovel",
+        "coordonnees_depart": [
+          46.3931,
+          5.9214
+        ],
+        "distance_km": 13.0,
+        "denivele_pos_m": 350,
+        "denivele_neg_m": 350,
+        "duree_h": 4.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1490,
+        "description": "Traversée de la mystérieuse forêt du Massacre. Hêtres fantomatiques et épicéas chargés de neige. Itinéraire emblématique du massif jurassien.",
+        "points_interet": [
+          "Forêt du Massacre",
+          "Crêt Pela",
+          "Paysages nordiques"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R25_prenovel_foret_massacre.gpx",
+        "note": 4.7,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R26",
+        "nom": "Raquettes Saint-Laurent-en-Grandvaux – Combe des Cives",
+        "depart": "Saint-Laurent-en-Grandvaux",
+        "coordonnees_depart": [
+          46.5731,
+          5.9653
+        ],
+        "distance_km": 10.0,
+        "denivele_pos_m": 250,
+        "denivele_neg_m": 250,
+        "duree_h": 3.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1100,
+        "description": "Parcours dans la magnifique Combe des Cives. Paysages grandioses et vallons encaissés enneigés.",
+        "points_interet": [
+          "Combe des Cives",
+          "Vues Grandvaux",
+          "Forêts"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R26_st_laurent_combe_cives.gpx",
+        "note": 4.4,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R27",
+        "nom": "Raquettes Plans d'Hotonnes – Plateau de Retord",
+        "depart": "Les Plans d'Hotonnes",
+        "coordonnees_depart": [
+          45.9103,
+          5.6928
+        ],
+        "distance_km": 14.0,
+        "denivele_pos_m": 200,
+        "denivele_neg_m": 200,
+        "duree_h": 4.5,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1450,
+        "description": "Grand tour sur le Plateau de Retord. Vaste espace nordique à la frontière Ain/Jura.",
+        "points_interet": [
+          "Plateau de Retord",
+          "Vue Grand Colombier",
+          "Paysages ouverts"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/raquettes-a-neige.html",
+        "gpx_file": "R27_hotonnes_plateau_retord.gpx",
+        "note": 4.5,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Ain",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R28",
+        "nom": "Raquettes La Vue des Alpes – Crêtes Neuchâteloises",
+        "depart": "La Vue des Alpes",
+        "coordonnees_depart": [
+          47.0031,
+          6.8428
+        ],
+        "distance_km": 9.0,
+        "denivele_pos_m": 200,
+        "denivele_neg_m": 200,
+        "duree_h": 3.0,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1283,
+        "description": "Crêtes du Jura neuchâtelois avec vue panoramique sur les Alpes et le Léman. Site nordique franco-suisse.",
+        "points_interet": [
+          "Vue panoramique Alpes",
+          "Crêtes du Jura",
+          "Forêts mixtes"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R28_vue_des_alpes.gpx",
+        "note": 4.5,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "Suisse - Neuchâtel",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R29",
+        "nom": "Raquettes La Brévine – Sibérie de la Suisse",
+        "depart": "La Brévine",
+        "coordonnees_depart": [
+          46.9761,
+          6.5986
+        ],
+        "distance_km": 10.0,
+        "denivele_pos_m": 150,
+        "denivele_neg_m": 150,
+        "duree_h": 3.5,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 1050,
+        "description": "La Brévine, surnommée la Sibérie de la Suisse. Tourbières et marais gelés, paysages hivernaux spectaculaires.",
+        "points_interet": [
+          "Tourbières",
+          "Marais gelés",
+          "Faune arctique"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R29_brevine_vallee_ponts.gpx",
+        "note": 4.6,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "Suisse - Neuchâtel",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R30",
+        "nom": "Raquettes Vallée de Joux – Le Marchairuz",
+        "depart": "Le Pont (Vallée de Joux)",
+        "coordonnees_depart": [
+          46.6597,
+          6.3153
+        ],
+        "distance_km": 12.0,
+        "denivele_pos_m": 350,
+        "denivele_neg_m": 350,
+        "duree_h": 4.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1447,
+        "description": "Montée au Marchairuz depuis la Vallée de Joux. Passage transfrontalier historique, vue sur le massif jurassien et la forêt du Risoux.",
+        "points_interet": [
+          "Col du Marchairuz 1447m",
+          "Vallée de Joux",
+          "Forêt du Risoux"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R30_vallee_joux_marchairuz.gpx",
+        "note": 4.7,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "Suisse - Vaud",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R31",
+        "nom": "Raquettes Saint-Cergue – Crêtes dominant le Léman",
+        "depart": "Saint-Cergue",
+        "coordonnees_depart": [
+          46.4342,
+          6.1617
+        ],
+        "distance_km": 11.0,
+        "denivele_pos_m": 400,
+        "denivele_neg_m": 400,
+        "duree_h": 4.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1620,
+        "description": "Raquettes vers les crêtes dominant le Lac Léman. Vue imprenable sur Genève, le Léman et les Alpes. Domaine nordique de La Dôle.",
+        "points_interet": [
+          "Vue Lac Léman",
+          "Vue Genève",
+          "La Dôle (proche)"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R31_saint_cergue_cretes.gpx",
+        "note": 4.8,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "Suisse - Vaud",
+        "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R32",
+        "nom": "Raquettes Sainte-Croix – Les Rasses",
+        "depart": "Sainte-Croix",
+        "coordonnees_depart": [
+          46.8248,
+          6.5025
+        ],
+        "distance_km": 9.5,
+        "denivele_pos_m": 280,
+        "denivele_neg_m": 280,
+        "duree_h": 3.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1450,
+        "description": "Raquettes Sainte-Croix / Les Rasses dans le Jura vaudois. Vues sur les Alpes et les Préalpes. Territoire nordique Arc Jurassien.",
+        "points_interet": [
+          "Vue Alpes",
+          "Crêtes vaudoises",
+          "Les Rasses"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R32_sainte_croix_rasses.gpx",
+        "note": 4.4,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "Suisse - Vaud/Neuchâtel",
+        "source_carte": "Arc Jurassien franco-suisse"
       }
     ]
   }
