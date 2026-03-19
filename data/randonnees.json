@@ -4558,6 +4558,353 @@
         ],
         "region": "Suisse - Vaud/Neuchâtel",
         "source_carte": "Arc Jurassien franco-suisse"
+      },
+      {
+        "id": "R33",
+        "nom": "Raquettes Meix-Musy / La Brévine – Boucle franco-suisse",
+        "depart": "Meix-Musy",
+        "coordonnees_depart": [
+          47.0022,
+          6.5431
+        ],
+        "distance_km": 18.0,
+        "denivele_pos_m": 350,
+        "denivele_neg_m": 350,
+        "duree_h": 6.0,
+        "difficulte": "Difficile",
+        "type": "Boucle",
+        "altitude_max_m": 1100,
+        "description": "Tour du Meix Musy-Le Chauffaud et boucle franco-suisse vers La Brévine. Traverse la frontière franco-suisse balisée par un muret. Documents d'identité obligatoires.",
+        "points_interet": [
+          "Frontière franco-suisse",
+          "Le Chauffaud",
+          "La Brévine"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R33_meix_musy_brevine.gpx",
+        "note": 4.5,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Doubs/Neuchâtel)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "4-8"
+      },
+      {
+        "id": "R34",
+        "nom": "Raquettes Hauterive-la-Fresse / Cernets – Polka du Cerf",
+        "depart": "Hauterive-la-Fresse",
+        "coordonnees_depart": [
+          46.9961,
+          6.62
+        ],
+        "distance_km": 16.0,
+        "denivele_pos_m": 300,
+        "denivele_neg_m": 300,
+        "duree_h": 5.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1050,
+        "description": "Polka du Cerf, liaison franco-suisse La Brévine-Les Cernets depuis Hauterive-la-Fresse. Traverse la frontière vers le canton de Neuchâtel. Documents obligatoires.",
+        "points_interet": [
+          "Les Cernets",
+          "La Brévine",
+          "Frontière franco-suisse"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R34_hauterive_cernets.gpx",
+        "note": 4.4,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Doubs/Neuchâtel)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "9-8"
+      },
+      {
+        "id": "R35",
+        "nom": "Raquettes Larmont / Les Cernets – La Franco-Suisse",
+        "depart": "Larmont (Pontarlier)",
+        "coordonnees_depart": [
+          46.91,
+          6.39
+        ],
+        "distance_km": 16.0,
+        "denivele_pos_m": 280,
+        "denivele_neg_m": 280,
+        "duree_h": 5.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1090,
+        "description": "Boucle franco-suisse Larmont - Les Cernets, traversée de la frontière dans le Doubs. Paysages nordiques et forêts jurassiennes enneigées.",
+        "points_interet": [
+          "Fort de Larmont",
+          "Les Cernets",
+          "Frontière franco-suisse"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R35_larmont_cernets.gpx",
+        "note": 4.3,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Doubs/Neuchâtel)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "10-8"
+      },
+      {
+        "id": "R36",
+        "nom": "Raquettes Les Fourgs / L'Auberson – La Transfrontalière",
+        "depart": "Les Fourgs",
+        "coordonnees_depart": [
+          46.8406,
+          6.4231
+        ],
+        "distance_km": 22.0,
+        "denivele_pos_m": 400,
+        "denivele_neg_m": 400,
+        "duree_h": 7.0,
+        "difficulte": "Difficile",
+        "type": "Point à point",
+        "altitude_max_m": 1350,
+        "description": "La Transfrontalière, grande traversée passant par la Vraconnaz. Relie Les Fourgs (France) à L'Auberson (Suisse). Un des plus beaux itinéraires franco-suisses de raquettes.",
+        "points_interet": [
+          "La Vraconnaz",
+          "L'Auberson",
+          "Crêtes frontière"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R36_fourgs_auberson.gpx",
+        "note": 4.8,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Doubs/Vaud)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "13-11"
+      },
+      {
+        "id": "R37",
+        "nom": "Raquettes Bois d'Amont / Mont Sâla – Boucle raquettes",
+        "depart": "Bois d'Amont",
+        "coordonnees_depart": [
+          46.5097,
+          6.0864
+        ],
+        "distance_km": 10.0,
+        "denivele_pos_m": 320,
+        "denivele_neg_m": 320,
+        "duree_h": 3.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1370,
+        "description": "Boucle raquettes du Mont Sâla depuis Bois d'Amont. Sommet offrant une vue panoramique sur le massif jurassien franco-suisse et la Vallée de Joux.",
+        "points_interet": [
+          "Mont Sâla 1370m",
+          "Vue Vallée de Joux",
+          "Frontière proche"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R37_bois_amont_mont_sala.gpx",
+        "note": 4.6,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "secteur_carte": "21"
+      },
+      {
+        "id": "R38",
+        "nom": "Raquettes Les Tuffes / La Givrine – Pied de La Dôle",
+        "depart": "Les Tuffes (Les Rousses)",
+        "coordonnees_depart": [
+          46.4831,
+          6.0642
+        ],
+        "distance_km": 9.0,
+        "denivele_pos_m": 250,
+        "denivele_neg_m": 250,
+        "duree_h": 3.0,
+        "difficulte": "Modéré",
+        "type": "Point à point",
+        "altitude_max_m": 1228,
+        "description": "Piste piétons/raquettes reliant la Givrine au pied du télésiège de la Dôle. Liaison transfrontalière entre les Rousses (France) et le canton de Vaud (Suisse).",
+        "points_interet": [
+          "La Givrine",
+          "Pied télésiège Dôle",
+          "Frontière franco-suisse"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R38_tuffes_givrine_dole.gpx",
+        "note": 4.5,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Jura/Vaud)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "21-22"
+      },
+      {
+        "id": "R39",
+        "nom": "Raquettes La Vattay / La Dôle – Boucles Sonnailley et Germine",
+        "depart": "La Vattay (Mijoux)",
+        "coordonnees_depart": [
+          46.37,
+          5.97
+        ],
+        "distance_km": 13.0,
+        "denivele_pos_m": 400,
+        "denivele_neg_m": 400,
+        "duree_h": 4.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1677,
+        "description": "Boucles Sonnailley et Germine depuis La Vattay vers La Dôle (1677m). Parcours raquettes entre la France (Ain) et la Suisse (Vaud). Vue sommet de La Dôle exceptionnelle.",
+        "points_interet": [
+          "Sommet La Dôle 1677m",
+          "Boucle Sonnailley",
+          "Boucle Germine"
+        ],
+        "info_url": "https://www.arcjurassien.org/",
+        "gpx_file": "R39_vattay_dole_sonnailley.gpx",
+        "note": 4.7,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France-Suisse (Ain/Vaud)",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "transfrontalier": true,
+        "secteur_carte": "23"
+      },
+      {
+        "id": "R40",
+        "nom": "Raquettes Cerniébaud – Arsure-Arsurette",
+        "depart": "Cerniébaud",
+        "coordonnees_depart": [
+          46.7253,
+          5.9792
+        ],
+        "distance_km": 9.0,
+        "denivele_pos_m": 250,
+        "denivele_neg_m": 250,
+        "duree_h": 3.0,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 900,
+        "description": "Boucle raquettes entre Cerniébaud et Arsure-Arsurette dans le Jura. Paysages de moyenne montagne, villages pittoresques enneigés.",
+        "points_interet": [
+          "Cerniébaud",
+          "Arsure-Arsurette",
+          "Paysages Jura"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/",
+        "gpx_file": "R40_cerniebaud_arsure.gpx",
+        "note": 4.1,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "secteur_carte": "18"
+      },
+      {
+        "id": "R41",
+        "nom": "Raquettes Nanchez – Lac des Rouges-Truites",
+        "depart": "Nanchez",
+        "coordonnees_depart": [
+          46.4547,
+          5.8736
+        ],
+        "distance_km": 10.0,
+        "denivele_pos_m": 200,
+        "denivele_neg_m": 200,
+        "duree_h": 3.5,
+        "difficulte": "Facile",
+        "type": "Boucle",
+        "altitude_max_m": 850,
+        "description": "Raquettes depuis Nanchez avec passage au Lac des Rouges-Truites gelé. Site proche de Prénovel et Saint-Laurent-en-Grandvaux, secteur 19 Arc Jurassien.",
+        "points_interet": [
+          "Lac des Rouges-Truites",
+          "Nanchez",
+          "Forêts"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/",
+        "gpx_file": "R41_nanchez_rouges_truites.gpx",
+        "note": 4.2,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "secteur_carte": "19"
+      },
+      {
+        "id": "R42",
+        "nom": "Raquettes Bellefontaine – Morbier – Longchaumois",
+        "depart": "Bellefontaine",
+        "coordonnees_depart": [
+          46.5035,
+          6.0302
+        ],
+        "distance_km": 14.0,
+        "denivele_pos_m": 300,
+        "denivele_neg_m": 300,
+        "duree_h": 4.5,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1100,
+        "description": "Grande boucle raquettes reliant Bellefontaine, Morbier et Longchaumois. Secteur 20 Arc Jurassien, territoire du célèbre fromage Morbier.",
+        "points_interet": [
+          "Morbier",
+          "Longchaumois",
+          "Forêts du Jura"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/",
+        "gpx_file": "R42_bellefontaine_morbier_longchaumois.gpx",
+        "note": 4.3,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "secteur_carte": "20"
+      },
+      {
+        "id": "R43",
+        "nom": "Raquettes Lajoux – Les Moussières – Bellecombe",
+        "depart": "Lajoux",
+        "coordonnees_depart": [
+          46.3478,
+          5.8347
+        ],
+        "distance_km": 12.0,
+        "denivele_pos_m": 280,
+        "denivele_neg_m": 280,
+        "duree_h": 4.0,
+        "difficulte": "Modéré",
+        "type": "Boucle",
+        "altitude_max_m": 1200,
+        "description": "Tour raquettes Lajoux - Les Moussières - Bellecombe-Les Molunes. Secteur 24 Arc Jurassien, hauts plateaux du Haut-Jura méridional.",
+        "points_interet": [
+          "Lajoux",
+          "Les Moussières",
+          "Bellecombe-Les Molunes"
+        ],
+        "info_url": "https://www.espacenordiquejurassien.com/",
+        "gpx_file": "R43_lajoux_moussieres_bellecombe.gpx",
+        "note": 4.3,
+        "saisons": [
+          "hiver"
+        ],
+        "region": "France - Jura",
+        "source_carte": "Arc Jurassien franco-suisse",
+        "secteur_carte": "24"
       }
     ]
   }
